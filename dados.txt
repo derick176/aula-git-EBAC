@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Derick
+-Profissão:area de produção
+-Cidade: Jaquariuna
+-O que faz nas horas vaga: estudo e jogo
+-Feedback sobre o curso Qualidade de Software: otimo to gostando de fazer o curso mui
+-Feedback sobre a plataforma de estudo da EBAC: boa simples de entender
+
+Obrigado!!!
